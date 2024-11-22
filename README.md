@@ -1,5 +1,4 @@
 **ReactJS Web App with Laravel API**
-This is a sample web application built with ReactJS for the frontend and Laravel for the backend API. The app provides basic authentication features, allowing users to register, login, and logout.
 
 **Features**
 Frontend (ReactJS)
